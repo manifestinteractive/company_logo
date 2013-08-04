@@ -33,7 +33,7 @@ Square Logos:
 
 ![square_color_flat](https://raw.github.com/manifestinteractive/company_logo/master/square/color_flat/exports/square_color_flat.png "square_color_flat")
 
-![square_grayscale](https://raw.github.com/manifestinteractive/company_logo/master/square/greyscale/exports/square_grayscale.png "square_grayscale")
+![square_grayscale](https://raw.github.com/manifestinteractive/company_logo/master/square/grayscale/exports/square_grayscale.png "square_grayscale")
 
 ![square_black](https://raw.github.com/manifestinteractive/company_logo/master/square/black/exports/square_black.png "square_black")
 
@@ -45,7 +45,7 @@ Rectangle Logos:
 
 ![rectangle_color_flat](https://raw.github.com/manifestinteractive/company_logo/master/rectangle/color_flat/exports/rectangle_color_flat.png "rectangle_color_flat")
 
-![rectangle_grayscale](https://raw.github.com/manifestinteractive/company_logo/master/rectangle/greyscale/exports/rectangle_grayscale.png "rectangle_grayscale")
+![rectangle_grayscale](https://raw.github.com/manifestinteractive/company_logo/master/rectangle/grayscale/exports/rectangle_grayscale.png "rectangle_grayscale")
 
 ![rectangle_black](https://raw.github.com/manifestinteractive/company_logo/master/rectangle/black/exports/rectangle_black.png "rectangle_black")
 
@@ -57,7 +57,7 @@ Icons:
 
 ![square_color_flat](https://raw.github.com/manifestinteractive/company_logo/master/icon_only/color_flat/exports/square_color_flat.png "square_color_flat")
 
-![square_grayscale](https://raw.github.com/manifestinteractive/company_logo/master/icon_only/greyscale/exports/square_grayscale.png "square_grayscale")
+![square_grayscale](https://raw.github.com/manifestinteractive/company_logo/master/icon_only/grayscale/exports/square_grayscale.png "square_grayscale")
 
 ![square_black](https://raw.github.com/manifestinteractive/company_logo/master/icon_only/black/exports/square_black.png "square_black")
 
